@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "directus": "^12.4.1"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
