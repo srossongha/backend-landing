@@ -4,3 +4,4 @@ data.db.old
 .env
 uploads
 .DS_Store
+backups/
